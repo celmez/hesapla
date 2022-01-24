@@ -93,9 +93,10 @@
             width: 100%;
             background: #c80b30;
             border: 2px solid #c80b30;
+            text-align: center;
 }
 
 .footer p a{
             text-decoration: none;
-            color: #c80b30;
+            color: #ffffff;
 }
