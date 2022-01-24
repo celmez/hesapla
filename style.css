@@ -100,7 +100,7 @@
 .footer p a{
             text-decoration: none;
             color: #ffffff;
-            border: 2px solid #ffffff;
+            border-bottom: 2px solid #ffffff;
 }
 
 .footer p{
