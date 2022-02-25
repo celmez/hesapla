@@ -129,5 +129,6 @@ form button[name=submit]:hover{
 
 #install-app:hover{
     background: transparent;
+    color: #c80b30;
     transition: .4s ease;
 }
