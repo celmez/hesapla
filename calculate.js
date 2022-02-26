@@ -30,7 +30,7 @@ $(document).ready(function(){
 
         else if( final < "50" )
         {
-            alert("Maalesef ortalamanız 50'nin altında olduğunuz için dersten otomatik olarak kaldınız! Ortalamanız: "+toplam)
+            alert("Maalesef final notunuz 50'nin altında olduğunuz için dersten otomatik olarak kaldınız! Ortalamanız: "+toplam)
         }
 
         else
